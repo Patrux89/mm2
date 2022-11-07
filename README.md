@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-- https://github.com/Patrux89
+- https://patrux89.github.io/mm2/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1mfrxw7vmCZ7WqcfWQj-lxaqlbpUmUtpHumvsNiLLeOA/edit#gid=0
 
 ## Create Your Own
